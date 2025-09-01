@@ -1,10 +1,10 @@
 {
   "mappings": [
-    "/content/Divesh_EDS/:/",
-    "/content/Divesh_EDS/configuration:/.helix/config.json",
-    "/content/Divesh_EDS/metadata:/metadata.json"
+    "/content/Divesh_eds/:/",
+    "/content/Divesh_eds/configuration:/.helix/config.json",
+    "/content/Divesh_eds/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/Divesh_EDS/"
+    "/content/Divesh_eds/"
   ]
 }
