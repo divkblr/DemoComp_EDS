@@ -1,10 +1,10 @@
 {
   "mappings": [
     "/content/Divesh_EDS/:/",
-    "/content/aem-boilerplate/configuration:/.helix/config.json",
-    "/content/aem-boilerplate/metadata:/metadata.json"
+    "/content/Divesh_EDS/configuration:/.helix/config.json",
+    "/content/Divesh_EDS/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-boilerplate/"
+    "/content/Divesh_EDS/"
   ]
 }
